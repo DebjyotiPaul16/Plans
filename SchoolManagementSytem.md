@@ -26,8 +26,8 @@
 
 ## Students attendance management
 
- 1. >Teachers can give students attendance
- 2. >Students can view their attendance log
+ *. Teachers can give students attendance
+ Students can view their attendance log
 
 ## School employees payroll management
 
