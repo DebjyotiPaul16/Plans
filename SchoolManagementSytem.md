@@ -5,22 +5,22 @@
 
 # Global modules
 - - -
-1. Students attendance management.
-2. School employees payroll management.
-3.  Library management system.
-4.  School administration system.
-5.  Inventory Mangement system.
-6.  Students performance management system.
-7.  Time Table management system
-8.  Course management system
-9.  Students fees management
-10. Notice board manaement system   
-11. Assesment management system
-12. Syllebus management system
-13. Results management system
-14. Performance mangement system
-15. Leave managements system
-16. Students storyline management system
+### 1. Students attendance management.
+### 2. School employees payroll management.
+### 3. Library management system.
+### 4.  School administration system.
+### 5.  Inventory Mangement system.
+### 6.  Students performance management system.
+### 7.  Time Table management system
+### 8.  Course management system
+### 9.  Students fees management
+### 10. Notice board manaement system   
+### 11. Assesment management system
+### 12. Syllebus management system
+### 13. Results management system
+### 14. Performance mangement system
+### 15. Leave managements system
+### 16. Students storyline management system
 
 - - -
 
